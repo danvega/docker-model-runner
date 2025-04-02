@@ -4,7 +4,7 @@
 
 ## Unleash Local AI Models with Docker and Spring Boot
 
-Looking to harness AI models locally without relying on cloud providers? This project demonstrates how to connect a Spring Boot application to Docker's Model Runner feature, allowing you to interact with AI models that run directly on your machine.
+Looking to harness AI models locally without relying on cloud providers? This project demonstrates how to connect a Spring Boot application to [Docker's Model Runner feature](https://docs.docker.com/desktop/features/model-runner/), allowing you to interact with AI models that run directly on your machine.
 
 No API keys needed for OpenAI or other providers - your data stays local, and you control the entire AI interaction pipeline!
 
